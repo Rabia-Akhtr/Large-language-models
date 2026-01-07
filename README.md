@@ -16,13 +16,6 @@
 - ✅ Visuals: learning curves, confusion matrix, model comparison bar chart
 - ✅ Reproducibility artifacts saved (config, grid results, history, predictions, error analysis)
 
----
-
-
-> Note: Large checkpoint files (e.g., `best_model.pt`) are not required for marking and are often excluded from GitHub to keep the repo lightweight.
-
----
-
 ## Dataset
 - **AG News** is a standard benchmark for topic classification with **4 balanced classes**.
 - Official splits used:
